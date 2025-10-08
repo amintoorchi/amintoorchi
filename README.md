@@ -1,4 +1,4 @@
-# Amin Toorchi | Software Engineer & DevOps Enthusiast
+# Amin Toorchi | Software Engineer & DevOps Engineer
 
 ## About Me: Driving Innovation at 18
 
