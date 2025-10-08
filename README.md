@@ -22,7 +22,7 @@ I build robust and efficient applications using **PHP** and the **Laravel framew
 
 ### **3. Frontend & Growth**
 
-Committed to full-stack proficiency, I continuously expand my knowledge in modern frontend technologies like **TypeScript** and **React**. This growth mindset ensures a comprehensive understanding of the entire application lifecycle, from performance optimization to user experience.
+Committed to full-stack proficiency, I continuously expand my knowledge in modern frontend technologies like **JavaScript** and **React**. This growth mindset ensures a comprehensive understanding of the entire application lifecycle, from performance optimization to user experience.
 
 ---
 
