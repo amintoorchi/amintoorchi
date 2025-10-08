@@ -1,31 +1,67 @@
-# About Me
+# Amin Toorchi | Software Engineer & DevOps Enthusiast
 
-I’m an 18-year-old, self-driven, and passionate software developer with an unwavering enthusiasm for programming, Linux, DevOps, and web development. As a 12th-grade student, I’ve dedicated myself to mastering technology from an early age, investing countless hours in honing my skills across diverse domains, from low-level system programming to crafting dynamic, scalable web applications. My love for the open-source ecosystem fuels my contributions to collaborative projects, where I engage in code study, bug fixes, and feature development to refine my technical expertise and teamwork abilities.
+## About Me: Driving Innovation at 18
 
-I have a deep affinity for Linux, leveraging it as my primary development environment and excelling in system administration. My passion for DevOps is evident in my mastery of containerization technologies like Docker, complemented by a strong command of AC Wireless LAN configuration and computer networking principles. In web development, I thrive on building robust, efficient applications using Laravel, blending creativity with technical precision to deliver impactful solutions.
+I am an **18-year-old, self-driven Software Developer** and a dedicated **DevOps Enthusiast**. Currently in 12th grade, I’ve gained extensive hands-on experience by dedicating countless hours to mastering technologies across the stack, from **Linux system administration** to building **dynamic, scalable web applications**.
 
-As a natural problem-solver, I embrace challenges that spark critical thinking and inspire innovative solutions. My commitment to lifelong learning drives me to continuously expand my knowledge and refine my craft. My ambition is to become a distinguished software engineer and DevOps specialist, making meaningful contributions to the tech community through open-source initiatives and cutting-edge web solutions. I’m eager to pursue formal education and hands-on experience to elevate my expertise, with a vision to harness technology for collaboration, innovation, and positive global impact.
+My primary focus is on **Backend Development** using **PHP/Laravel** and **Python/FastAPI**, complemented by a strong command of **DevOps methodologies** (Linux, Docker, Networking). As an advocate for the **Open Source ecosystem**, I actively contribute to collaborative projects, engaging in code review, bug fixes, and feature implementation to continuously refine my technical expertise and teamwork abilities.
 
-### Technology Stack
+My goal is to evolve into a distinguished Software and **DevOps Specialist**, driving forward modern software architecture.
 
-![Bash Script](https://img.shields.io/badge/bash_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-black?style-for-the-badge&logo=react&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-black?style-for-the-badge&logo=sass&logoColor=white)
-![PHP](https://img.shields.io/badge/php-black?style-for-the-badge&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-black?style-for-the-badge&logo=sqlite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style-for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-black?style-for-the-badge&logo=typescript&logoColor=white)
+---
 
-<!-- 
+## Core Expertise
 
+### **1. DevOps & System Engineering**
+
+My core passion lies in building and managing the infrastructure. I excel in **Linux system administration** and leverage it as my primary development environment. Proficient with **containerization using Docker** and possessing a strong foundation in **computer networking principles** and AC Wireless LAN configuration.
+
+### **2. Backend & API Development**
+
+I build robust and efficient applications using **PHP** and the **Laravel framework**. I am skilled in designing, implementing, and optimizing **RESTful APIs** that form the core logic for scalable web services. Experience also includes development with **Python/FastAPI** and **Node.js**.
+
+### **3. Frontend & Growth**
+
+Committed to full-stack proficiency, I continuously expand my knowledge in modern frontend technologies like **TypeScript** and **React**. This growth mindset ensures a comprehensive understanding of the entire application lifecycle, from performance optimization to user experience.
+
+---
+
+## ⚡ Technology Stack
+
+My core stack, tools, and expertise:
+
+### **Languages & Frameworks**
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/REST\_API-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="RESTful API Badge" />
+</p>
+
+### **Frontend & UI/UX**
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js Badge" />
+<img src="https://img.shields.io/badge/Tailwind\_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+</p>
+
+### **DevOps, Tools & Databases**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
+</p>
