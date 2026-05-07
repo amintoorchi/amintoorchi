@@ -1,6 +1,6 @@
 # Amin Toorchi | Software & DevOps Engineer
 
-## About Me: Driving Innovation at 18
+## About Me: Driving Innovation at 19
 
 I am an **18-year-old, self-driven Software Developer** and a dedicated **DevOps Enthusiast**. Currently in 12th grade, I’ve gained extensive hands-on experience by dedicating countless hours to mastering technologies across the stack, from **Linux system administration** to building **dynamic, scalable web applications**.
 
