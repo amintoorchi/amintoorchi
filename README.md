@@ -2,7 +2,7 @@
 
 ## About Me: Driving Innovation at 19
 
-I am an **18-year-old, self-driven Software Developer** and a dedicated **DevOps Enthusiast**. Currently in 12th grade, I’ve gained extensive hands-on experience by dedicating countless hours to mastering technologies across the stack, from **Linux system administration** to building **dynamic, scalable web applications**.
+I am an **19-year-old, self-driven Software Developer** and a dedicated **DevOps Enthusiast**. Currently in 12th grade, I’ve gained extensive hands-on experience by dedicating countless hours to mastering technologies across the stack, from **Linux system administration** to building **dynamic, scalable web applications**.
 
 My primary focus is on **Backend Development** using **PHP/Laravel** and **Python/FastAPI**, complemented by a strong command of **DevOps methodologies** (Linux, Docker, Networking). As an advocate for the **Open Source ecosystem**, I actively contribute to collaborative projects, engaging in code review, bug fixes, and feature implementation to continuously refine my technical expertise and teamwork abilities.
 
