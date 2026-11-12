@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://amintoorchi.ir"><img src="https://img.shields.io/badge/Website-amintoorchi.ir-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://slides.amintorochi.ir"><img src="https://img.shields.io/badge/Presentations-Explore-9d7cd8?style=for-the-badge&logo=googleslides&logoColor=white" alt="Presentations"></a>
+  <a href="https://slides.amintoorchi.ir"><img src="https://img.shields.io/badge/Presentations-Explore-9d7cd8?style=for-the-badge&logo=googleslides&logoColor=white" alt="Presentations"></a>
   <a href="https://github.com/amintoorchi"><img src="https://img.shields.io/badge/GitHub-amintoorchi-24283b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://x.com/amintoorchi"><img src="https://img.shields.io/badge/X-amintoorchi-24283b?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/amintoorchi"><img src="https://img.shields.io/badge/LinkedIn-amintoorchi-1a7fba?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
