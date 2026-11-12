@@ -26,6 +26,6 @@ Working with Laravel and learning Python and Rust. Into Linux, BSD, and free sof
   <img src="https://skillicons.dev/icons?i=linux,laravel,python,rust,docker,github,tailwind,bash,mysql,neovim,php,js,redis,html,kubernetes,fastapi,git,css,ansible,vscode,postgres,githubactions,nginx,sass&perline=24&theme=dark" alt="Languages, frameworks, tools, and technologies">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <sub>خلاصه شده :)</sub>
-</div>
+</div> -->
