@@ -1,0 +1,34 @@
+{
+  "username": "amintoorchi",
+  "prompt": "amintoorchi@funlife",
+  "career_start_year": 2019,
+  "link": "https://amintoorchi.ir",
+  "sections": [
+    {
+      "title": null,
+      "rows": [
+        ["Role", "Backend Developer, Linux, DevOps"],
+        ["Uptime", "{years}+ years in technology"],
+        ["Host", "Linux / Self-Hosted"],
+        ["Base", "Tabriz, Iran"],
+        ["Method", "Think -> Code -> Build"],
+        null,
+        ["Stack.Web", "Laravel, Livewire, PHP, Tailwind"],
+        ["Stack.System", "Linux, BSD, Bash, Docker, Git"],
+        ["Languages", "PHP, Python, Rust"],
+        null,
+        ["Focus.Backend", "Web Applications, APIs, Backend Systems"],
+        ["Focus.Infrastructure", "Linux, Networking, DevOps"],
+        ["Projects.Featured", "NHT, ChefBox, ..."]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "amin.tourchie@gmail.com"],
+        ["Website", "amintoorchi.ir"],
+        ["GitHub", "amintoorchi"]
+      ]
+    }
+  ]
+}
